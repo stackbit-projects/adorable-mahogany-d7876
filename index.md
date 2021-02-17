@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/Owlet-1.jpg
+    image: images/MWR-Logo-R8-Clean.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
